@@ -1,0 +1,10 @@
+{
+    "name": "Timezones",
+    "description": "Displays the current time in different timezones",
+    "version": "3.0.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }  

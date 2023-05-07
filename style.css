@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  thead th {
+    background-color: #0078d7;
+    color: white;
+  }
+  
+  .timezone:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .usa {
+    background-color: #ffc107;
+  }
+  
+  .india {
+    background-color: #28a745;
+  }
+  
+  .china {
+    background-color: #dc3545;
+  }
+  
